@@ -1,0 +1,344 @@
+{
+ "en": {
+  "tier": "high",
+  "T": 1.0,
+  "joint_lo": 1.0,
+  "joint_hi": 1.0,
+  "naive_lo": 0.9176,
+  "naive_hi": 1.0796,
+  "width_ratio": 0.0
+ },
+ "pt": {
+  "tier": "high",
+  "T": 0.624,
+  "joint_lo": 0.5784,
+  "joint_hi": 0.6728,
+  "naive_lo": 0.5822,
+  "naive_hi": 0.6667,
+  "width_ratio": 1.12
+ },
+ "zh": {
+  "tier": "high",
+  "T": 0.622,
+  "joint_lo": 0.568,
+  "joint_hi": 0.6823,
+  "naive_lo": 0.5754,
+  "naive_hi": 0.6699,
+  "width_ratio": 1.21
+ },
+ "es": {
+  "tier": "high",
+  "T": 0.608,
+  "joint_lo": 0.5677,
+  "joint_hi": 0.6537,
+  "naive_lo": 0.5662,
+  "naive_hi": 0.6482,
+  "width_ratio": 1.05
+ },
+ "tr": {
+  "tier": "high",
+  "T": 0.58,
+  "joint_lo": 0.5318,
+  "joint_hi": 0.6353,
+  "naive_lo": 0.539,
+  "naive_hi": 0.623,
+  "width_ratio": 1.23
+ },
+ "de": {
+  "tier": "high",
+  "T": 0.549,
+  "joint_lo": 0.5016,
+  "joint_hi": 0.602,
+  "naive_lo": 0.5105,
+  "naive_hi": 0.5863,
+  "width_ratio": 1.33
+ },
+ "cs": {
+  "tier": "high",
+  "T": 0.527,
+  "joint_lo": 0.4863,
+  "joint_hi": 0.5721,
+  "naive_lo": 0.4912,
+  "naive_hi": 0.5635,
+  "width_ratio": 1.19
+ },
+ "vi": {
+  "tier": "high",
+  "T": 0.515,
+  "joint_lo": 0.4711,
+  "joint_hi": 0.5635,
+  "naive_lo": 0.4778,
+  "naive_hi": 0.5514,
+  "width_ratio": 1.26
+ },
+ "fr": {
+  "tier": "high",
+  "T": 0.514,
+  "joint_lo": 0.4733,
+  "joint_hi": 0.5605,
+  "naive_lo": 0.4781,
+  "naive_hi": 0.5503,
+  "width_ratio": 1.21
+ },
+ "it": {
+  "tier": "high",
+  "T": 0.509,
+  "joint_lo": 0.4687,
+  "joint_hi": 0.5553,
+  "naive_lo": 0.4711,
+  "naive_hi": 0.5477,
+  "width_ratio": 1.13
+ },
+ "ru": {
+  "tier": "high",
+  "T": 0.505,
+  "joint_lo": 0.466,
+  "joint_hi": 0.5504,
+  "naive_lo": 0.4688,
+  "naive_hi": 0.5426,
+  "width_ratio": 1.14
+ },
+ "ja": {
+  "tier": "high",
+  "T": 0.491,
+  "joint_lo": 0.4457,
+  "joint_hi": 0.5414,
+  "naive_lo": 0.4593,
+  "naive_hi": 0.5249,
+  "width_ratio": 1.46
+ },
+ "nl": {
+  "tier": "high",
+  "T": 0.447,
+  "joint_lo": 0.4107,
+  "joint_hi": 0.4886,
+  "naive_lo": 0.4141,
+  "naive_hi": 0.48,
+  "width_ratio": 1.18
+ },
+ "ar": {
+  "tier": "high",
+  "T": 0.435,
+  "joint_lo": 0.3987,
+  "joint_hi": 0.4753,
+  "naive_lo": 0.4038,
+  "naive_hi": 0.4652,
+  "width_ratio": 1.25
+ },
+ "ko": {
+  "tier": "high",
+  "T": 0.416,
+  "joint_lo": 0.3756,
+  "joint_hi": 0.4601,
+  "naive_lo": 0.3824,
+  "naive_hi": 0.4489,
+  "width_ratio": 1.27
+ },
+ "pl": {
+  "tier": "high",
+  "T": 0.399,
+  "joint_lo": 0.3683,
+  "joint_hi": 0.4319,
+  "naive_lo": 0.3706,
+  "naive_hi": 0.4272,
+  "width_ratio": 1.12
+ },
+ "fa": {
+  "tier": "high",
+  "T": 0.387,
+  "joint_lo": 0.3496,
+  "joint_hi": 0.4284,
+  "naive_lo": 0.355,
+  "naive_hi": 0.4188,
+  "width_ratio": 1.24
+ },
+ "hi": {
+  "tier": "high",
+  "T": 0.274,
+  "joint_lo": 0.2494,
+  "joint_hi": 0.302,
+  "naive_lo": 0.2533,
+  "naive_hi": 0.2954,
+  "width_ratio": 1.25
+ },
+ "he": {
+  "tier": "high",
+  "T": 0.232,
+  "joint_lo": 0.2114,
+  "joint_hi": 0.2543,
+  "naive_lo": 0.2143,
+  "naive_hi": 0.2491,
+  "width_ratio": 1.23
+ },
+ "id": {
+  "tier": "low",
+  "T": 0.501,
+  "joint_lo": 0.4608,
+  "joint_hi": 0.5456,
+  "naive_lo": 0.4654,
+  "naive_hi": 0.5349,
+  "width_ratio": 1.22
+ },
+ "ms": {
+  "tier": "low",
+  "T": 0.461,
+  "joint_lo": 0.4233,
+  "joint_hi": 0.503,
+  "naive_lo": 0.4274,
+  "naive_hi": 0.4944,
+  "width_ratio": 1.19
+ },
+ "th": {
+  "tier": "low",
+  "T": 0.353,
+  "joint_lo": 0.3197,
+  "joint_hi": 0.3937,
+  "naive_lo": 0.3273,
+  "naive_hi": 0.3812,
+  "width_ratio": 1.37
+ },
+ "tl": {
+  "tier": "low",
+  "T": 0.31,
+  "joint_lo": 0.279,
+  "joint_hi": 0.3453,
+  "naive_lo": 0.2832,
+  "naive_hi": 0.3379,
+  "width_ratio": 1.21
+ },
+ "mr": {
+  "tier": "low",
+  "T": 0.203,
+  "joint_lo": 0.1831,
+  "joint_hi": 0.2257,
+  "naive_lo": 0.1866,
+  "naive_hi": 0.22,
+  "width_ratio": 1.28
+ },
+ "ne": {
+  "tier": "low",
+  "T": 0.187,
+  "joint_lo": 0.1629,
+  "joint_hi": 0.2117,
+  "naive_lo": 0.1637,
+  "naive_hi": 0.2099,
+  "width_ratio": 1.06
+ },
+ "ur": {
+  "tier": "low",
+  "T": 0.154,
+  "joint_lo": 0.1377,
+  "joint_hi": 0.1738,
+  "naive_lo": 0.1398,
+  "naive_hi": 0.1699,
+  "width_ratio": 1.2
+ },
+ "bn": {
+  "tier": "low",
+  "T": 0.143,
+  "joint_lo": 0.1299,
+  "joint_hi": 0.157,
+  "naive_lo": 0.1323,
+  "naive_hi": 0.1528,
+  "width_ratio": 1.33
+ },
+ "te": {
+  "tier": "low",
+  "T": 0.073,
+  "joint_lo": 0.0649,
+  "joint_hi": 0.0814,
+  "naive_lo": 0.0659,
+  "naive_hi": 0.0794,
+  "width_ratio": 1.22
+ },
+ "pa": {
+  "tier": "low",
+  "T": 0.069,
+  "joint_lo": 0.0607,
+  "joint_hi": 0.0771,
+  "naive_lo": 0.0611,
+  "naive_hi": 0.0765,
+  "width_ratio": 1.06
+ },
+ "gu": {
+  "tier": "low",
+  "T": 0.064,
+  "joint_lo": 0.0557,
+  "joint_hi": 0.0729,
+  "naive_lo": 0.0563,
+  "naive_hi": 0.0718,
+  "width_ratio": 1.11
+ },
+ "ta": {
+  "tier": "low",
+  "T": 0.06,
+  "joint_lo": 0.0517,
+  "joint_hi": 0.0683,
+  "naive_lo": 0.0521,
+  "naive_hi": 0.0672,
+  "width_ratio": 1.09
+ },
+ "kn": {
+  "tier": "low",
+  "T": 0.051,
+  "joint_lo": 0.0446,
+  "joint_hi": 0.0589,
+  "naive_lo": 0.0452,
+  "naive_hi": 0.0577,
+  "width_ratio": 1.15
+ },
+ "ml": {
+  "tier": "low",
+  "T": 0.046,
+  "joint_lo": 0.0386,
+  "joint_hi": 0.0536,
+  "naive_lo": 0.0391,
+  "naive_hi": 0.0524,
+  "width_ratio": 1.12
+ },
+ "as": {
+  "tier": "zero",
+  "T": 0.084,
+  "joint_lo": 0.0721,
+  "joint_hi": 0.0958,
+  "naive_lo": 0.0731,
+  "naive_hi": 0.094,
+  "width_ratio": 1.13
+ },
+ "my": {
+  "tier": "zero",
+  "T": 0.029,
+  "joint_lo": 0.0188,
+  "joint_hi": 0.0388,
+  "naive_lo": 0.0187,
+  "naive_hi": 0.0386,
+  "width_ratio": 1.01
+ },
+ "or": {
+  "tier": "zero",
+  "T": 0.029,
+  "joint_lo": 0.0226,
+  "joint_hi": 0.0352,
+  "naive_lo": 0.0229,
+  "naive_hi": 0.0346,
+  "width_ratio": 1.09
+ },
+ "km": {
+  "tier": "zero",
+  "T": 0.026,
+  "joint_lo": 0.0169,
+  "joint_hi": 0.0353,
+  "naive_lo": 0.017,
+  "naive_hi": 0.0349,
+  "width_ratio": 1.03
+ },
+ "lo": {
+  "tier": "zero",
+  "T": -0.0,
+  "joint_lo": -0.0079,
+  "joint_hi": 0.0076,
+  "naive_lo": -0.0079,
+  "naive_hi": 0.0076,
+  "width_ratio": 1.0
+ }
+}

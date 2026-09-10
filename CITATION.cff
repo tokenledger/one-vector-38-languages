@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code or these vectors, please cite the paper."
+title: "One Vector, Thirty-Eight Languages: Benchmark-Derived Anti-Sycophancy Steering Works Worst Where Sycophancy Is Worst"
+authors:
+  - family-names: Aluguvelly
+    given-names: Avinash Goutham
+    email: algo@utexas.edu
+    affiliation: The University of Texas at Austin
+year: 2026
+type: conference-paper
+conference:
+  name: "ORACLE 2026"
+license: MIT
+repository-code: https://github.com/tokenledger/one-vector-38-languages

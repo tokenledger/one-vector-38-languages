@@ -1,0 +1,13 @@
+{
+ "language": "zh",
+ "tier": "high",
+ "n": 150,
+ "none_margin": 0.16927,
+ "none_syc": 0.2867,
+ "v_bench_margin": 0.24946,
+ "v_bench_syc": 0.2,
+ "random_margin": 0.16663,
+ "random_syc": 0.2867,
+ "d_bench": 0.08019,
+ "d_random": -0.00264
+}

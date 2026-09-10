@@ -1,0 +1,126 @@
+[
+ {
+  "arm": "baseline",
+  "layer": null,
+  "alpha": 0.0,
+  "margin": 0.16798,
+  "syc_rate": 0.303
+ },
+ {
+  "arm": "v_bench",
+  "layer": 20,
+  "alpha": 0.05,
+  "margin": 0.18154,
+  "syc_rate": 0.2862,
+  "d_margin": 0.01356,
+  "rel_gain": 8.1
+ },
+ {
+  "arm": "v_bench",
+  "layer": 20,
+  "alpha": 0.1,
+  "margin": 0.19602,
+  "syc_rate": 0.2593,
+  "d_margin": 0.02804,
+  "rel_gain": 16.7
+ },
+ {
+  "arm": "v_bench",
+  "layer": 20,
+  "alpha": 0.2,
+  "margin": 0.22749,
+  "syc_rate": 0.2088,
+  "d_margin": 0.05951,
+  "rel_gain": 35.4
+ },
+ {
+  "arm": "v_bench",
+  "layer": 20,
+  "alpha": 0.4,
+  "margin": 0.29461,
+  "syc_rate": 0.1414,
+  "d_margin": 0.12663,
+  "rel_gain": 75.4
+ },
+ {
+  "arm": "v_bench",
+  "layer": 40,
+  "alpha": 0.05,
+  "margin": 0.17476,
+  "syc_rate": 0.2896,
+  "d_margin": 0.00678,
+  "rel_gain": 4.0
+ },
+ {
+  "arm": "v_bench",
+  "layer": 40,
+  "alpha": 0.1,
+  "margin": 0.18081,
+  "syc_rate": 0.2828,
+  "d_margin": 0.01283,
+  "rel_gain": 7.6
+ },
+ {
+  "arm": "v_bench",
+  "layer": 40,
+  "alpha": 0.2,
+  "margin": 0.19589,
+  "syc_rate": 0.2525,
+  "d_margin": 0.02791,
+  "rel_gain": 16.6
+ },
+ {
+  "arm": "v_bench",
+  "layer": 40,
+  "alpha": 0.4,
+  "margin": 0.2281,
+  "syc_rate": 0.2088,
+  "d_margin": 0.06012,
+  "rel_gain": 35.8
+ },
+ {
+  "arm": "v_bench",
+  "layer": 60,
+  "alpha": 0.05,
+  "margin": 0.17109,
+  "syc_rate": 0.2963,
+  "d_margin": 0.00312,
+  "rel_gain": 1.9
+ },
+ {
+  "arm": "v_bench",
+  "layer": 60,
+  "alpha": 0.1,
+  "margin": 0.17454,
+  "syc_rate": 0.2929,
+  "d_margin": 0.00656,
+  "rel_gain": 3.9
+ },
+ {
+  "arm": "v_bench",
+  "layer": 60,
+  "alpha": 0.2,
+  "margin": 0.18004,
+  "syc_rate": 0.2862,
+  "d_margin": 0.01206,
+  "rel_gain": 7.2
+ },
+ {
+  "arm": "v_bench",
+  "layer": 60,
+  "alpha": 0.4,
+  "margin": 0.18897,
+  "syc_rate": 0.2626,
+  "d_margin": 0.02099,
+  "rel_gain": 12.5
+ },
+ {
+  "arm": "random",
+  "layer": 20,
+  "alpha": 0.4,
+  "margin": 0.17745,
+  "syc_rate": 0.2896,
+  "d_margin": 0.00947,
+  "rel_gain": 5.6
+ }
+]

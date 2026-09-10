@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+results/*.parquet
+results/*.jsonl
+.DS_Store
+*.egg-info/
+
+# LaTeX build artifacts
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
+paper/*.fls
+paper/*.fdb_latexmk
+paper/build.log
+paper/bodypos.txt
